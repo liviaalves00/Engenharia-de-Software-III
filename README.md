@@ -1,4 +1,7 @@
 # Engenharia-de-Software-III
 
 ## Integrantes:
-  - Bianca
+  - Bianca Bezerra
+  - Ruan Macedo
+  - Meireles Neto
+  - Lívia Brito
