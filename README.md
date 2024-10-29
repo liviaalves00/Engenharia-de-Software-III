@@ -36,8 +36,8 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
    - Possibilita a criação de grupos de bate-papo entre vizinhos, para discutir medidas de segurança, melhorias no bairro e troca de informações sobre atividades suspeitas.
    - Os grupos podem ser criados para temas específicos, como "Segurança", "Problemas com Iluminação Pública", ou até "Animais Perdidos", incentivando a cooperação comunitária.
 
- Documento de Brifieng: https://docs.google.com/document/d/1IpTX0NJsJn_rFgGqwtmgFq4kKc9_VCQZ/edit?usp=sharing&ouid=114902268998971999543&rtpof=true&sd=true
- Documento de Pesquisa de Mercado: https://docs.google.com/document/d/1bnJU8JHj82Q5iY5SOf8aRg7am7fEpNvJT-gaNZQasM8/edit#heading=h.30j0zll
+ ## Documento de Brifieng: https://docs.google.com/document/d/1IpTX0NJsJn_rFgGqwtmgFq4kKc9_VCQZ/edit?usp=sharing&ouid=114902268998971999543&rtpof=true&sd=true
+ ## Documento de Pesquisa de Mercado: https://docs.google.com/document/d/1bnJU8JHj82Q5iY5SOf8aRg7am7fEpNvJT-gaNZQasM8/edit#heading=h.30j0zll
 ---
 
 ## 2. Sistema de Mentoramento entre Estudantes
