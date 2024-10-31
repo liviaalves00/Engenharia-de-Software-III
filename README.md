@@ -40,7 +40,7 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ### [Documento de Pesquisa de Mercado](https://docs.google.com/document/d/1bnJU8JHj82Q5iY5SOf8aRg7am7fEpNvJT-gaNZQasM8/edit#heading=h.30j0zll "Link para o documento")
 ### Matriz É Não-É, Faz Não-Faz
 ![Matriz É Não-É, Faz Não-Faz](artefatos/matriz-é-nãoé-faz-nãofaz.png)
-### Misão de Produto
+### Visão de Produto
 ![Visão de Produto](artefatos/visao-de-produto.png)
 ---
 
