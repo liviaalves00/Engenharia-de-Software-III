@@ -9,7 +9,7 @@
 
 ---
 
-## Aplicativo de Vizinhança Segura
+## Aplicativo _ei vizinho!_
 ### Área/Tema Principal do Projeto:
 - **Segurança e Comunicação Comunitária**
 
