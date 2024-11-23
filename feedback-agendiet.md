@@ -1,14 +1,10 @@
-- ### Quais aspectos do trabalho mais se destacaram?
-O diferencial do projeto que visa se destacar perante outros sotwares/apps de nutrição, que é: detecção de repetição de alimentos, integração com medicamentos e hitórico de passagem com análise de progresso.
-- ### Houve algum artefato especialmente bem elaborado ou criativo?
-Todos estão bem elaborados, muito bem feitos. Agora a escolha do template da matriz e o ENFN estão muito criativos e bem descritos.
+## Feedback para o projeto AgenDiet
 
-- ### O que poderia ser ajustado para melhorar a clareza, organização ou qualidade dos artefatos?
-- ### Algum ponto ficou confuso ou faltando informações relevantes?
+- Existem vários aplicativos relacionados à nutrição disponíveis no mercado, mas achamos que as funcionalidades do aplicativo conseguem dar uma identidade própria ao projeto. O também parece viável de implementação. 
 
-- ### Os artefatos estão consistentes entre si?
-Sim, estão bem coesos e bem levantados, tanto o documento de briefing quanto a pesquisa de mercado, levando a uma boa produção da visão do produto. (Eu achei isso, revisem --com amor, Lívia)
-- ### Refletem bem o objetivo do projeto e o público-alvo?
+- Todos os artefatos estão bem elaborados, muito bem feitos, principalmente a matriz e o ENFN, que estão muito criativos e bem descritos. Sobre consistência, parecem bem coesos e levantados, já que por exemplo, o documento de briefing e a pesquisa de mercado levaram a uma boa produção da visão do produto. As personas também refletem bem o público alvo ao qual o sistema se direciona e deixam bem claro o uso das funcionalidades ligadas às mesmas.
 
-- ### O que pode ser feito para tornar o trabalho ainda melhor?
-- ### Alguma ideia ou recurso adicional para explorar?
+- Uma sugestão seria ter a faixa etária dos usuários da aplicação bem definida. Ela parece subentendida no documento de personas, então a gente sugeriria só ter certeza de ter esse ponto em mente, porque principalmente nesse contexto de nutrição, é um fator que pode ter um peso muito grande em regras de negócios ou mesmo no rumo em que a aplicação irá seguir.
+
+- Uma funcionalidade que achamos que poderia ser acrescentada futuramente, seria um rastreador de consumo de água. Não parece ser tão complicado de implementar e como Teresina é uma cidade quente, acreditamos que seria bem recebida pelos usuários daqui.
+Casaria bem com a proposta de notificações push que a aplicação já tem para medicações.
