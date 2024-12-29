@@ -48,6 +48,8 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ### [Mapa de empatia](https://miro.com/app/board/uXjVLKMpK40=/?share_link_id=91533948269 "Link para Mapa de Empatia") 
 ### [Link para vídeo apresentando os primeiros artefatos](https://drive.google.com/file/d/1Iuee-o1rMaSXlIOXZwGFIDvzVVEgFXeF/view?usp=sharing)
 ### [Link para vídeo sobre os artefatos finais](https://youtu.be/xVdnNlfyr9Y)
+### [Link para wireframe navegável](https://www.figma.com/proto/Ou6lPFCudzR1Lq3zlyD88U/ei-vizinho---remasterized?node-id=264-1143&p=f&t=EVuIHSJ0kD1AAUFR-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=261%3A1330&show-proto-sidebar=1)
+
 ---
 
 
