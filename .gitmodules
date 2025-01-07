@@ -1,6 +1,6 @@
 [submodule "eiVizinho-API"]
-	path = eiVizinho-API
+	path = backend
 	url = https://github.com/Meidesu/eiVizinho-API.git
 [submodule "eivizinho"]
-	path = eivizinho
+	path = mobile
 	url = https://github.com/msruan/eivizinho.git
