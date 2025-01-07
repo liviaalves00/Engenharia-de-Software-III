@@ -49,6 +49,7 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ### [Link para vídeo apresentando os primeiros artefatos](https://drive.google.com/file/d/1Iuee-o1rMaSXlIOXZwGFIDvzVVEgFXeF/view?usp=sharing)
 ### [Link para vídeo sobre os artefatos finais](https://youtu.be/xVdnNlfyr9Y)
 ### [Link para wireframe navegável](https://www.figma.com/proto/Ou6lPFCudzR1Lq3zlyD88U/ei-vizinho---remasterized?node-id=0-1&t=EVuIHSJ0kD1AAUFR-1)
+### [Link para vídeo sobre a Sprint 1](https://youtu.be/X5kwX3jly_o?si=VBhsHL3JLLkSnwIy)
 ---
 
 
