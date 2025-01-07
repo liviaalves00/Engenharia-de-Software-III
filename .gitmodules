@@ -1,0 +1,3 @@
+[submodule "eiVizinho-API"]
+	path = eiVizinho-API
+	url = https://github.com/Meidesu/eiVizinho-API.git
