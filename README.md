@@ -44,7 +44,7 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ![Visão de Produto](artefatos/visao-de-produto.png)
 
 ### [Caixa de Produto](https://docs.google.com/document/d/1feUJ9WXCTWlrpEofa-16fKaEeT86kbKaHp2TPFLokgo/edit?usp=sharing "Link para Caixa de Produto") 
-### [Personas](https://www.canva.com/design/DAGVdqtJwc8/7gQ0H5Qqd8OYxov20k3p0g/edit?utm_content=DAGVdqtJwc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Link para Personas ") 
+### [Personas](https://github.com/liviaalves00/Engenharia-de-Software-III/blob/main/artefatos/personas.pdf "Link para Personas ") 
 ### [Mapa de empatia](https://miro.com/app/board/uXjVLKMpK40=/?share_link_id=91533948269 "Link para Mapa de Empatia") 
 ### [Link para vídeo apresentando os primeiros artefatos](https://drive.google.com/file/d/1Iuee-o1rMaSXlIOXZwGFIDvzVVEgFXeF/view?usp=sharing)
 ### [Link para vídeo sobre os artefatos finais](https://youtu.be/xVdnNlfyr9Y)
