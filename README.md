@@ -22,17 +22,16 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 
 ### Funcionalidades Principais:
 **Alerta de Incidentes**:
-   - Permite que os usuários reportem, em tempo real, acontecimentos suspeitos ou emergenciais, como assaltos, movimentos estranhos ou acidentes.
+   - Permite que os usuários reportem acontecimentos suspeitos ou emergenciais, como assaltos, movimentos estranhos ou acidentes.
    - Inclui a possibilidade de adicionar descrições, fotos e vídeos dos incidentes para fornecer mais detalhes.
 
  **Mapa Colaborativo**:
    - Um mapa interativo onde os usuários podem visualizar os locais dos incidentes reportados.
    - Marcações em diferentes cores para indicar o tipo de incidente (roubo, assalto, acidente, etc.).
-   - As marcações podem ser visualizadas por período, como últimas 24 horas, 7 dias ou 30 dias, para ajudar a identificar padrões de risco.
 
-**Grupos de Discussão**:
-   - Possibilita a criação de grupos de bate-papo entre vizinhos, para discutir medidas de segurança, melhorias no bairro e troca de informações sobre atividades suspeitas.
-   - Os grupos podem ser criados para temas específicos, como "Segurança", "Problemas com Iluminação Pública", ou até "Animais Perdidos", incentivando a cooperação comunitária.
+**Notificações**:
+   - Possibilita o usuário receber notificações em tempo real de alertas, baseadas em localização.
+   - As notificações possuem prioridade, calculada levando em consideração o tipo de crime, distância e tempo.
 
 
 ## Artefatos
