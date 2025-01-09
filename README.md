@@ -38,9 +38,9 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ### [Documento de Brifieng](https://docs.google.com/document/d/1IpTX0NJsJn_rFgGqwtmgFq4kKc9_VCQZ/edit?usp=sharing&ouid=114902268998971999543&rtpof=true&sd=truel "Link para o documento") 
 ### [Documento de Pesquisa de Mercado](artefatos/pesquisa-de-mercado.pdf "Link para o documento")
 ### Matriz É Não-É, Faz Não-Faz
-![Matriz É Não-É, Faz Não-Faz](artefatos/matriz-é-nãoé-faz-nãofaz.png)
+[Matriz É Não-É, Faz Não-Faz](artefatos/matriz-é-nãoé-faz-nãofaz.png)
 ### Visão de Produto
-![Visão de Produto](artefatos/visao-de-produto.png)
+[Visão de Produto](artefatos/visao-de-produto.png)
 
 ### [Caixa de Produto](https://docs.google.com/document/d/1feUJ9WXCTWlrpEofa-16fKaEeT86kbKaHp2TPFLokgo/edit?usp=sharing "Link para Caixa de Produto") 
 ### [Personas](artefatos/personas.pdf "Link para Personas ") 
