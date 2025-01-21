@@ -34,6 +34,13 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
    - As notificações possuem prioridade, calculada levando em consideração o tipo de crime, distância e tempo.
 
 
+## Vídeos
+### [Link para vídeo apresentando os primeiros artefatos](https://drive.google.com/file/d/1Iuee-o1rMaSXlIOXZwGFIDvzVVEgFXeF/view?usp=sharing)
+### [Link para vídeo sobre os artefatos finais](https://youtu.be/xVdnNlfyr9Y)
+### [Link para vídeo sobre a Sprint 1](https://youtu.be/X5kwX3jly_o)
+### [Link para vídeo sobre a Sprint 2](https://youtu.be/Zjv6W1p0FtU)
+
+
 ## Artefatos
 ### [Documento de Brifieng](https://docs.google.com/document/d/1IpTX0NJsJn_rFgGqwtmgFq4kKc9_VCQZ/edit?usp=sharing&ouid=114902268998971999543&rtpof=true&sd=truel "Link para o documento") 
 ### [Documento de Pesquisa de Mercado](artefatos/pesquisa-de-mercado.pdf "Link para o documento")
@@ -46,10 +53,6 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ### [Link para wireframe navegável](https://www.figma.com/proto/Ou6lPFCudzR1Lq3zlyD88U/ei-vizinho---remasterized?node-id=0-1&t=EVuIHSJ0kD1AAUFR-1)
 ### [Link para Backlog das Sprints](https://docs.google.com/spreadsheets/d/1CPqTHTyXS29ylh6t078vFC_M6YCbl7DVfhvFYErHNAQ/edit?usp=sharing)
 
-## Vídeos
-### [Link para vídeo apresentando os primeiros artefatos](https://drive.google.com/file/d/1Iuee-o1rMaSXlIOXZwGFIDvzVVEgFXeF/view?usp=sharing)
-### [Link para vídeo sobre os artefatos finais](https://youtu.be/xVdnNlfyr9Y)
-### [Link para vídeo sobre a Sprint 1](https://youtu.be/X5kwX3jly_o?si=VBhsHL3JLLkSnwIy)
 ---
 
 
