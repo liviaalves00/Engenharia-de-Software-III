@@ -44,13 +44,13 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 
 ## Artefatos
 ### [Retrospectiva da Sprint 1](artefatos/sprint1-review.pdf)
-### [Documento de Brifieng](https://docs.google.com/document/d/1IpTX0NJsJn_rFgGqwtmgFq4kKc9_VCQZ/edit?usp=sharing&ouid=114902268998971999543&rtpof=true&sd=truel "Link para o documento") 
+### [Documento de Brifieng](artefatos/briefing.pdf "Link para o documento") 
 ### [Documento de Pesquisa de Mercado](artefatos/pesquisa-de-mercado.pdf "Link para o documento")
 ### [Matriz É Não-É, Faz Não-Faz](artefatos/matriz-é-nãoé-faz-nãofaz.png)
 ### [Visão de Produto](artefatos/visao-de-produto.png)
-### [Caixa de Produto](https://docs.google.com/document/d/1feUJ9WXCTWlrpEofa-16fKaEeT86kbKaHp2TPFLokgo/edit?usp=sharing "Link para Caixa de Produto")
+### [Caixa de Produto](artefatos/caixa-de-produto.pdf "Link para o documento")
 ### [Personas](artefatos/personas.pdf "Link para Personas ")
-### [Mapa de empatia](https://miro.com/app/board/uXjVLKMpK40=/?share_link_id=91533948269 "Link para Mapa de Empatia")
+### [Mapa de empatia](mapa-de-empatia.pdf "Link para o Mapa de Empatia")
 ### [Diagrama Entidade-Relacionamento](artefatos/diagrama-er.png "Link para o diagrama ER")
 ### [Link para wireframe navegável](https://www.figma.com/proto/Ou6lPFCudzR1Lq3zlyD88U/ei-vizinho---remasterized?node-id=0-1&t=EVuIHSJ0kD1AAUFR-1)
 ### [Link para Backlog das Sprints](https://docs.google.com/spreadsheets/d/1CPqTHTyXS29ylh6t078vFC_M6YCbl7DVfhvFYErHNAQ/edit?usp=sharing)
