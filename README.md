@@ -50,7 +50,7 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ### [Visão de Produto](artefatos/visao-de-produto.png)
 ### [Caixa de Produto](artefatos/caixa-de-produto.pdf "Link para o documento")
 ### [Personas](artefatos/personas.pdf "Link para Personas ")
-### [Mapa de empatia](mapa-de-empatia.pdf "Link para o Mapa de Empatia")
+### [Mapa de empatia](artefatos/mapa-de-empatia.pdf "Link para o Mapa de Empatia")
 ### [Diagrama Entidade-Relacionamento](artefatos/diagrama-er.png "Link para o diagrama ER")
 ### [Link para wireframe navegável](https://www.figma.com/proto/Ou6lPFCudzR1Lq3zlyD88U/ei-vizinho---remasterized?node-id=0-1&t=EVuIHSJ0kD1AAUFR-1)
 ### [Link para Backlog das Sprints](https://docs.google.com/spreadsheets/d/1CPqTHTyXS29ylh6t078vFC_M6YCbl7DVfhvFYErHNAQ/edit?usp=sharing)
