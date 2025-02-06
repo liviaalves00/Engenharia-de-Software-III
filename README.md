@@ -39,9 +39,11 @@ A falta de comunicação e cooperação entre vizinhos em relação a ocorrênci
 ### [Link para vídeo sobre os artefatos finais](https://youtu.be/xVdnNlfyr9Y)
 ### [Link para vídeo sobre a Sprint 1](https://youtu.be/X5kwX3jly_o)
 ### [Link para vídeo sobre a Sprint 2](https://youtu.be/Zjv6W1p0FtU)
+### [Link para vídeo sobre a Sprint 3](https://youtu.be/R0EgDIoIefA)
 
 
 ## Artefatos
+### [Retrospectiva da Sprint 1](artefatos/sprint1-review.pdf)
 ### [Documento de Brifieng](https://docs.google.com/document/d/1IpTX0NJsJn_rFgGqwtmgFq4kKc9_VCQZ/edit?usp=sharing&ouid=114902268998971999543&rtpof=true&sd=truel "Link para o documento") 
 ### [Documento de Pesquisa de Mercado](artefatos/pesquisa-de-mercado.pdf "Link para o documento")
 ### [Matriz É Não-É, Faz Não-Faz](artefatos/matriz-é-nãoé-faz-nãofaz.png)
